@@ -14,4 +14,5 @@ Before starting, Exercism's Hello World tutorial had a "Getting Started" file th
 * http://tutorials.jumpstartlab.com/topics/testing/intro-to-tdd.html
 
 ## Exercism Daily Coding Challenge
-* https://exercism.io/my/solutions/5fcb2cb1929f4603a6777e01a849a5f6
+* Hello World
+  * https://exercism.io/my/solutions/5fcb2cb1929f4603a6777e01a849a5f6
