@@ -17,3 +17,7 @@
 * On Naming Errors & returning 0
   * https://github.com/golang/go/wiki/CodeReviewComments#error-strings
   * https://golang.org/ref/spec#The_zero_value
+
+### Lessons Learned/Thoughts
+* Hitting my head on Strings vs Runes.
+  * After I grasp it better, could be a good candidate for a short blog/video to help others having same learning curve speedbump. 
