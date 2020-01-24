@@ -1,4 +1,4 @@
-# Project Log - Thurs. Nov 28th, 2019
+# Project Log - Weds. Dec 4th, 2019
 ## Goals
 ### Project - Exercism
 * Complete next Exercism Go Challenge

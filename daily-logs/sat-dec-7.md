@@ -26,7 +26,11 @@
 * https://golang.org/pkg/net/http/
 * https://github.com/gorilla/mux
 * https://gobyexample.com/interfaces
+* https://golang.org/pkg/net/http/#example_HandleFunc
+* https://gobyexample.com/functions
 
 ### Resources -  Exercism
 * https://golang.org/doc/effective_go.html
 * https://golangcookbook.com/chapters/strings/processing/
+* https://gobyexample.com/errors
+* https://medium.com/rate-engineering/go-test-your-code-an-introduction-to-effective-testing-in-go-6e4f66f2c259

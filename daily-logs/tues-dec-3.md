@@ -1,10 +1,10 @@
-# Project Log - Thurs. Nov 28th, 2019
+# Project Log - Tues. Dec 3rd, 2019
 ## Goals
 ### Project - Exercism
 * Set up stream - twitch.tv/devopsjacquie
 * Start Go track on Exercism
 * Attempt first AoC challenge
-  * Didn't make it yet. Will do some more Go exercises then try this again. 
+  * Didn't make it yet. Will do some more Go exercises then try this again.
 
 ### Stream!
 * Installed OBS
